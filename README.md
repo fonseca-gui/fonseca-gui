@@ -8,9 +8,9 @@ Prazer! Meu nome é **Guilherme Fonseca**, estudante do 5º período de **ADS - 
  
 - 📍 Uberlândia - MG.
 - 🔍 Foco em Front-end, automação, IA e ChatBot
-- 👨‍👩‍👧‍👦 **Curiosidade:** Apaixonado por Jesus e pela minha família. 
+- 👨‍👩‍👧‍👦 Apaixonado pela minha família. 
 
-## Tecs:
+## Tecnologia:
 
 <img 
     align="left" 
