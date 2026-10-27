@@ -1,6 +1,6 @@
 # 🤖 Guilherme Fonseca
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor`**
 
 Prazer! Meu nome é **Guilherme Fonseca**, estudante do 5º período de **ADS - Análise e Desenvolvimento de Sistemas**. Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir no mundo do desenvolvimento de software.
  
